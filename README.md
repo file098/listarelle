@@ -1,29 +1,7 @@
 # listarelle
 
-## Project setup
-```
-npm install
-```
+a minimal note taking app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+available at <https://file098.github.io/listarelle/>
